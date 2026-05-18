@@ -1,20 +1,20 @@
 export const users = [
   {
     id: "1",
-    username: "Neeti",
-    email: "neeti@example.com",
+    username: "Marty",
+    email: "marty@example.com",
     password: "pass123",
   },
   {
     id: "2",
-    username: "Neeti",
-    email: "neeti@example.com",
+    username: "Leon",
+    email: "Leon@example.com",
     password: "pass123",
   },
   {
     id: "3",
-    username: "Neeti",
-    email: "neeti@example.com",
+    username: "Tony",
+    email: "Tony@example.com",
     password: "pass123",
   },
 ];
